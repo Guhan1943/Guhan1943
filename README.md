@@ -32,28 +32,20 @@ Feel free to reach out if you'd like to collaborate on a project or just have a 
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
+<hr>
 
+
+<div align="center">
+  
+![LeetCode Stats](https://leetcard.jacoblin.cool/guhan_43?theme=light&font=Karma&ext=heatmap)
+
+</div>
+
+<hr>
   
 ## GitHub Stats
-
-[![Guhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guhan1943&show_icons=true&theme=radical)](https://ithub.com/Guhan1943/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guhan1943&layout=compact&theme=radical)](https://github.com/Guhan1943/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Guhan1943&theme=radical)](https://git.io/streak-stats)
-
-
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Guhan1943&show_icons=true&theme=radical" alt="Guhan's GitHub stats" style="width: 32%; height: 30%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guhan1943&layout=compact&theme=radical" alt="Top Languages" style="width: 32%; height: 30%;"/>
 </div>
-<div align="center">
- <a href="https://www.linkedin.com/in/aruneshkumar-a-5378a7272/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></img></a> 
-   <a href="https://www.instagram.com/arunesh._.kumar/"></a><img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white&style=for-the-badge"></img>
-</div>
-<div align="center">
-  <h1 align="left">About Me</h1>
-<!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
-    <p font-family="Times New Roman', Times, serif;" align="left">Hi there! I'm Aruneshkumar A, an aspiring Full Stack Developer currently on an exciting journey to mastering both front-end and back-end technologies. I have completed the front-end portion of my Full Stack Development course, where I gained hands-on experience with HTML, CSS, JavaScript, and ReactJS.</p>
 
-</div>
