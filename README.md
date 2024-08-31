@@ -34,11 +34,14 @@ Feel free to reach out if you'd like to collaborate on a project or just have a 
 
 
   
-<div align="center">
-  <h1 align="left">My Stats :</h1>
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aruneshkumar07"></img> -->
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Guhan1943&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D&type=png" alt="GitHub Streak" /></a>
-</div>
+## GitHub Stats
+
+[![Guhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guhan1943&show_icons=true&theme=radical)](https://ithub.com/Guhan1943/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guhan1943&layout=compact&theme=radical)](https://github.com/Guhan1943/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Guhan1943&theme=radical)](https://git.io/streak-stats)
+
 
 
 <div id="header" align="center">
